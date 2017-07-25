@@ -1,0 +1,2 @@
+# strangemoore.web
+Strangemoore website
